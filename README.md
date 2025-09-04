@@ -3,7 +3,7 @@ Juan Sebastián Corredor Sáenz
 Programación Orientada a Objetos
 
 ## Ejercicio 1: Imprimir una frase  
-Muestra en pantalla una frase fija como "Hola mundo".
+Muestra en pantalla una frase fija como "Hola, ya se imprimir frases".
 
 <img width="268" height="33" alt="image" src="https://github.com/user-attachments/assets/1a506536-2ae2-454c-8a76-75bc9b9d9a31" />
 
